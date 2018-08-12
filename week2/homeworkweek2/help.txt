@@ -1,0 +1,6 @@
+list of commands
+
+help - shows commands
+list - shows to do list
+add + "string" - adds to the list
+reset - resets list
